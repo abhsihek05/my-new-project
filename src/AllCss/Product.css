@@ -1,0 +1,16 @@
+
+.product-details .content {
+    padding-left: 20%;
+}
+
+.non {
+    display: none;
+    transition: all 0.7s;
+}
+
+.hover-div:hover .non{
+    display: block;
+    height: 100%;
+    width: 100%;
+   
+}
